@@ -25,6 +25,9 @@ WARNING: Take care when handling sharp needles.
  2.  Starting the pattern
         - Using the right hand right hand hand, take the needle drivers
         - Using the drivers, pick up the needle in the middle of the metal
+
+![Needle Drivers](drivers.jpg)
+
         - Use the rat tooth forceps in your left hand to grab and stabilize the right side of the "lesion"
         - Drive the needle into the "skin" at an angle that is perpendicular to the "tissue" about 1/2 cm from the edge of the lesion
         - Push the needle through, curving it towards the inner edge of the tissue and push it out of the "tissue" about 1/2 cm deep
