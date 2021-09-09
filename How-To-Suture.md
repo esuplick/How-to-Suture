@@ -34,11 +34,13 @@ Suturing is a vital skill for anyone who works in the medical field. From stitch
    - Drive the needle into the "skin" at an angle that is perpendicular to the "tissue" about 1/2 cm from the edge of the lesion
    - Push the needle through, curving it towards the inner edge of the tissue and push it out of the "tissue" about 1/2 cm deep
             > Repeat this process with the other side of tissue, entering from the inside of the lesion and exiting the top at a perpendicular angle
+
 **3.  Tying the first knot**
-    -  Pull the thread through the two sides of tissue, leaving 1 inch of suture free from the first entrance
-    -  Release the needle from the needle drivers, instead grabbing the 1 inch of excess thread
-    -  Holding the end of thread with the needle in the forceps, wrap this thread around the base of the needle drivers 3 times and pull both hands in opposite directions to bring the knot down to the tissue surface
-    -  Repeat the process, instead wrapping the suture once around in the opposite direction and pulling the knot down to the tissue
+
+   -  Pull the thread through the two sides of tissue, leaving 1 inch of suture free from the first entrance
+   -  Release the needle from the needle drivers, instead grabbing the 1 inch of excess thread
+   -  Holding the end of thread with the needle in the forceps, wrap this thread around the base of the needle drivers 3 times and pull both hands in opposite directions to bring the knot down to the tissue surface
+   -  Repeat the process, instead wrapping the suture once around in the opposite direction and pulling the knot down to the tissue
 
 ![surgeon's knot](surgeon.knot.png)
 
