@@ -1,5 +1,5 @@
-# Emilea Suplick
-## _How to Suture_
+# How to Suture
+## _Why Learn?_
 
 
 Suturing is a vital skill for anyone who works in the medical field. From stitches cleaning up injuries to closing up surgeries, there is a suture pattern for every job. The simple continuous suture pattern is the perfect pattern for when time is limited.
