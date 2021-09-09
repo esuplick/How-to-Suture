@@ -25,8 +25,9 @@ Suturing is a vital skill for anyone who works in the medical field. From stitch
    - Take the needle with the attached suture out of its packaging and place it down next to the medium, where it will not be accidentally hit or dropped
  
  **2.  Starting the pattern**
-        - Using the right hand right hand hand, take the needle drivers
-        - Using the drivers, pick up the needle in the middle of the metal
+ 
+   - Using the right hand right hand hand, take the needle drivers
+   - Using the drivers, pick up the needle in the middle of the metal
 
 ![Needle Drivers](drivers.jpg)
 
@@ -45,26 +46,35 @@ Suturing is a vital skill for anyone who works in the medical field. From stitch
 ![surgeon's knot](surgeon.knot.png)
 
  **4.  Begin the continuous portion of the suture**
-        - Using the needle drivers in the right hand and stabilizing the tissue with the rat tooth forceps, take another bite of tissue from the right side of the lesion (about 1/2 cm below the original entrance point)
-        -  Drive the needle through the tissue on the left side as described in step 2
- **5.  Continue the pattern for the length of the lesion**
-     - Continue taking new bites of tissue from the right side, spaced 1/2 cm from the one prior
-      - Follow the suture through to the left side each time
-      - The pattern begins to look like a never-ending "Z" when continued down a lesion
+ 
+   - Using the needle drivers in the right hand and stabilizing the tissue with the rat tooth forceps, take another bite of tissue from the right side of the lesion (about 1/2 cm below the original entrance point)
+   -  Drive the needle through the tissue on the left side as described in step 2
+
+**5.  Continue the pattern for the length of the lesion**
+
+   - Continue taking new bites of tissue from the right side, spaced 1/2 cm from the one prior
+   - Follow the suture through to the left side each time
+   - The pattern begins to look like a never-ending "Z" when continued down a lesion
  
  ![pattern](continuous.pattern.jpg)
  
  **6. Check the integrity of the suture pattern**
-      - Be sure that the edges of the lesion are lining up to each other correctly, avoiding any pursing of the tissue at the surface
-    - Check for any tears in the tissue from where the needle entered, being sure the tissue is stable and will hold
-    - If the tissue has any of the above problems, try to release some of the pressure by giving more slack in the thread; otherwise, the sutures must be removed and redone for integrity of the pattern. Otherwise, continue to step 7
+ 
+   - Be sure that the edges of the lesion are lining up to each other correctly, avoiding any pursing of the tissue at the surface
+   - Check for any tears in the tissue from where the needle entered, being sure the tissue is stable and will hold
+   - If the tissue has any of the above problems, try to release some of the pressure by giving more slack in the thread; otherwise, the sutures must be removed and redone for integrity of the pattern. Otherwise, continue to step 7
+ 
  **7. Bring the suture to an end**
-       - Nearing the end of the lesion, leave space for one more bite on each side
- **8. Finishing the suture**
-       - Take one last bite from each side, ending with the needle out of the left side as usual, but leave slack in the suture on the right side
-       - Use the slack on the right side to fold and create a tether to tie a surgeon's knot as in step 3
+ 
+   - Nearing the end of the lesion, leave space for one more bite on each side
+
+**8. Finishing the suture**
+
+   - Take one last bite from each side, ending with the needle out of the left side as usual, but leave slack in the suture on the right side
+   - Use the slack on the right side to fold and create a tether to tie a surgeon's knot as in step 3
  
  ![end](end.knot.png)
+ 
  
  **9. Check the suture once more for pursing, folds, or tears**
 
