@@ -20,9 +20,9 @@ Suturing is a vital skill for anyone who works in the medical field. From stitch
 ## Steps
  **1.  Prepare the materials**
  
-        - Prepare a chosen medium by making sure it is spread evenly and has no folds
-        - Create a slice in the medium to create the "lesion" that will be sutured closed
-        - Take the needle with the attached suture out of its packaging and place it down next to the medium, where it will not be accidentally hit or dropped
+   - Prepare a chosen medium by making sure it is spread evenly and has no folds
+   - Create a slice in the medium to create the "lesion" that will be sutured closed
+   - Take the needle with the attached suture out of its packaging and place it down next to the medium, where it will not be accidentally hit or dropped
  
  **2.  Starting the pattern**
         - Using the right hand right hand hand, take the needle drivers
