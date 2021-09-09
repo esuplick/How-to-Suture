@@ -29,7 +29,7 @@ Suturing is a vital skill for anyone who works in the medical field. From stitch
    - Using the right hand right hand hand, take the needle drivers
    - Using the drivers, pick up the needle in the middle of the metal
 
-    ![Needle Drivers](drivers.jpg)
+     ![Needle Drivers](drivers.jpg)
 
    - Use the rat tooth forceps in your left hand to grab and stabilize the right side of the "lesion"
    - Drive the needle into the "skin" at an angle that is perpendicular to the "tissue" about 1/2 cm from the edge of the lesion
@@ -43,7 +43,7 @@ Suturing is a vital skill for anyone who works in the medical field. From stitch
    -  Holding the end of thread with the needle in the forceps, wrap this thread around the base of the needle drivers 3 times and pull both hands in opposite directions to bring the knot down to the tissue surface
    -  Repeat the process, instead wrapping the suture once around in the opposite direction and pulling the knot down to the tissue
 
-    ![surgeon's knot](surgeon.knot.png)
+      ![surgeon's knot](surgeon.knot.png)
 
  **4.  Begin the continuous portion of the suture**
  
@@ -56,7 +56,7 @@ Suturing is a vital skill for anyone who works in the medical field. From stitch
    - Follow the suture through to the left side each time
    - The pattern begins to look like a never-ending "Z" when continued down a lesion
  
-    ![pattern](continuous.pattern.jpg)
+     ![pattern](continuous.pattern.jpg)
  
  **6. Check the integrity of the suture pattern**
  
@@ -73,7 +73,7 @@ Suturing is a vital skill for anyone who works in the medical field. From stitch
    - Take one last bite from each side, ending with the needle out of the left side as usual, but leave slack in the suture on the right side
    - Use the slack on the right side to fold and create a tether to tie a surgeon's knot as in step 3
  
-    ![end](end.knot.png)
+     ![end](end.knot.png)
  
  
  **9. Check the suture once more for pursing, folds, or tears**
