@@ -34,7 +34,8 @@ Suturing is a vital skill for anyone who works in the medical field. From stitch
    - Use the rat tooth forceps in your left hand to grab and stabilize the right side of the "lesion"
    - Drive the needle into the "skin" at an angle that is perpendicular to the "tissue" about 1/2 cm from the edge of the lesion
    - Push the needle through, curving it towards the inner edge of the tissue and push it out of the "tissue" about 1/2 cm deep
-            > Repeat this process with the other side of tissue, entering from the inside of the lesion and exiting the top at a perpendicular angle
+
+        > Repeat this process with the other side of tissue, entering from the inside of the lesion and exiting the top at a perpendicular angle
 
 **3.  Tying the first knot**
 
