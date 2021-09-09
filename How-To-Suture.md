@@ -28,9 +28,9 @@ WARNING: Take care when handling sharp needles.
 
 ![Needle Drivers](drivers.jpg)
 
-        - Use the rat tooth forceps in your left hand to grab and stabilize the right side of the "lesion"
-        - Drive the needle into the "skin" at an angle that is perpendicular to the "tissue" about 1/2 cm from the edge of the lesion
-        - Push the needle through, curving it towards the inner edge of the tissue and push it out of the "tissue" about 1/2 cm deep
+   - Use the rat tooth forceps in your left hand to grab and stabilize the right side of the "lesion"
+   - Drive the needle into the "skin" at an angle that is perpendicular to the "tissue" about 1/2 cm from the edge of the lesion
+   - Push the needle through, curving it towards the inner edge of the tissue and push it out of the "tissue" about 1/2 cm deep
             > Repeat this process with the other side of tissue, entering from the inside of the lesion and exiting the top at a perpendicular angle
 3.  Tying the first knot
     -  Pull the thread through the two sides of tissue, leaving 1 inch of suture free from the first entrance
