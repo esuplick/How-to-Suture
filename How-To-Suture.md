@@ -42,6 +42,7 @@ WARNING: Take care when handling sharp needles.
      - continue taking new bites of tissue from the right side, spaced 1/2 cm from the one prior
       - follow the suture through to the left side each time
       - the pattern begins to look like a never-ending "Z" when continued down a lesion
+ 
  ![pattern](continuous.pattern.jpg)
  6. Check the integrity of the suture pattern
       - be sure that the edges of the lesion are lining up to each other correctly, avoiding any pursing of the tissue at the surface
